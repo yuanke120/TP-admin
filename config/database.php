@@ -15,11 +15,11 @@ return [
     // 服务器地址
     'hostname'       => '127.0.0.1',
     // 数据库名
-    'database'       => 'bolong_mplus',
+    'database'       => 'tp_admin',
     // 用户名
-    'username'       => 'root',
+    'username'       => 'xxx',
     // 密码
-    'password'       => 'root1128',
+    'password'       => 'xxx',
     // 端口
     'hostport'        => '3306',
     // 连接dsn
